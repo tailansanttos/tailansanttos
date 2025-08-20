@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/tailansantos/)
 
 ### Sobre mim
-Meu nome é Tailan, sou Desenvolvedor Backendm, e atualmente estou cursando Engenharia de Software. Ainda estou no início da carreira e tive poucas experiências com equipes, porém sou capaz de realizar tarefas básicas como CRUD, consumo e criação de APIs, além de utilizar banco de dados.
+Meu nome é Tailan, sou Desenvolvedor Backend, e atualmente estou cursando Engenharia de Software. Ainda estou no início da carreira e tive poucas experiências com equipes, porém sou capaz de realizar tarefas básicas como CRUD, consumo e criação de APIs, além de utilizar banco de dados.
 
 ---
 ###  Linguagens e Tecnologias
