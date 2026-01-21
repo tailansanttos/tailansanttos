@@ -1,47 +1,51 @@
-# Olá! Me chamo Tailan Santos 
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/tailansanttos)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/tailansantos/)
+## Sobre mim
 
-### Sobre mim
-Meu nome é Tailan, sou Desenvolvedor Backend, e atualmente estou cursando Engenharia de Software. Ainda estou no início da carreira e tive poucas experiências com equipes, porém sou capaz de realizar tarefas básicas como CRUD, consumo e criação de APIs, além de utilizar banco de dados.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Engenharia de Software na Universidade Católica de Salvador.
+- 💼 Atualmente não estou trabalhando.
+- 🌱 Aprendendo mais sobre SQL, Docker, Github Action, JUnit e Mockito para testes unitários.
 
----
-###  Linguagens e Tecnologias
+## Minhas Skills
+
+**Aplicações e dados**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Intellij IDEA](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000)
+
+<br/>
+
+<a href="https://github.com/tailansanttos" title="Perfil do Tailan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tailansanttos&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-tailansantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tailansantos/)](https://www.linkedin.com/in/tailansantos/)
+[![Gmail Badge](https://img.shields.io/badge/-tailansanttos02@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tailansanttos02@gmail.com)](mailto:tailansanttos02@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/tailansanttos?label=follow&style=social)](https://github.com/tailansanttos)
 
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Kafka" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
-<img align="left" alt="JUnit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
-<img align="left" alt="InteliJ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-<br />
 
-#
-###
-
-<h2 align="left">Estatísticas</h2>
-
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tailansanttos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<h2 align="left">REDES SOCIAIS</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/tailansantos" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/tailan.snt7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
